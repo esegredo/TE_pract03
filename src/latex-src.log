@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.5.11)  28 FEB 2013 17:08
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.5.11)  28 FEB 2013 17:10
 entering extended mode
  %&-line parsing enabled.
 **latex-src.tex
@@ -264,45 +264,71 @@ Package babel Info: Making " an active character on input line 492.
 Package babel Info: Making . an active character on input line 585.
 Package babel Info: Making < an active character on input line 630.
 Package babel Info: Making > an active character on input line 630.
-)) (./latex-src.aux)
+)) (/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/etc/texmf/tex/latex/config/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvips.def on input line 91.
+
+(/usr/share/texmf-texlive/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+) (./latex-src.aux)
 \openout1 = `latex-src.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 10.
+(Font)              <14.4> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 10.
+(Font)              <7> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 10.
+(Font)              <5> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 12.
+(Font)              <10.95> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 12.
+(Font)              <8> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 12.
+(Font)              <6> on input line 13.
+File: imagen1.eps Graphic file (type eps)
+
+<imagen1.eps>
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 43.
+(Font)              <12> on input line 46.
  [1
 
 ] [2] (./latex-src.aux) ) 
 Here is how much of TeX's memory you used:
- 1069 strings out of 495062
- 11961 string characters out of 1182644
- 70345 words of memory out of 3000000
- 4295 multiletter control sequences out of 15000+50000
+ 1375 strings out of 495062
+ 15817 string characters out of 1182644
+ 69592 words of memory out of 3000000
+ 4580 multiletter control sequences out of 15000+50000
  9765 words of font info for 34 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 24i,11n,27p,168b,251s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 25i,11n,27p,202b,251s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on latex-src.dvi (2 pages, 3696 bytes).
+Output written on latex-src.dvi (2 pages, 3768 bytes).
